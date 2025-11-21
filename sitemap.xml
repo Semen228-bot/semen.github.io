@@ -1,83 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<!-- 	created with www.mysitemapgenerator.com	 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://semen228-bot.github.io/index.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/jobs.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/index.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/candidate.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/jobs.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/job_details.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/candidate.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/elements.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/job_details.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/blog.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/elements.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/single-blog.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/blog.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/contact.html</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/single-blog.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://semen228-bot.github.io/img/elements/g1.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g2.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g3.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g4.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g5.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g6.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g7.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
-</url>
-<url>
-  <loc>http://semen228-bot.github.io/img/elements/g8.jpg</loc>
-  <changefreq>daily</changefreq>
-  <lastmod>2025-11-20</lastmod>
+<loc>https://semen228-bot.github.io/contact.html</loc>
+<lastmod>2025-11-21T17:31:47+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 </urlset>
