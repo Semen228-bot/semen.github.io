@@ -27,6 +27,35 @@
 
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+
+
+ <!-- OpenGraph -->
+    <meta property="og:title" content="Job Board">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://semen228-bot.github.io/jobs.html">
+    <meta property="og:image" content="https://semen228-bot.github.io/images/og-jobs.jpg">
+    <meta property="og:description" content="Company of the best job find in Miass">
+    <meta property="og:site_name" content="Job Board">
+    
+    <!-- Schema.org для основной информации о странице -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Job find",
+      "description": "Company of the best job find in Miass",
+      "url": "https://semen228-bot.github.io/jobs.html",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Job Board"
+      }
+    }
+    </script>
+
+
+
+
+	
 </head>
 
 <body>
@@ -409,6 +438,106 @@
         </div>
     </div>
     <!-- job_listing_area_end  -->
+
+
+
+<h1>Job Openings</h1>
+    
+    <!-- Example Job 1 -->
+    <div class="job-opening">
+        <h2>Frontend Developer</h2>
+        <p><strong>Responsibilities:</strong> User interface development, markup, optimization</p>
+        <p><strong>Requirements:</strong> JavaScript, React, HTML5, CSS3</p>
+        <p><strong>Salary:</strong> from 80,000 RUB</p>
+        
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "JobPosting",
+          "title": "Frontend Developer",
+          "description": "User interface development, markup, performance optimization",
+          "datePosted": "2024-01-15",
+          "validThrough": "2024-02-28",
+          "employmentType": "FULL_TIME",
+          "hiringOrganization": {
+            "@type": "Organization",
+            "name": "Job Board",
+            "sameAs": "https://semen228-bot.github.io/"
+          },
+          "jobLocation": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Миасс",
+              "addressCountry": "RU"
+            }
+          },
+          "baseSalary": {
+            "@type": "MonetaryAmount",
+            "currency": "RUB",
+            "value": {
+              "@type": "QuantitativeValue",
+              "minValue": 80000,
+              "maxValue": 150000,
+              "unitText": "MONTH"
+            }
+          },
+          "responsibilities": "User interface development, markup, performance optimization",
+          "qualifications": "Experience with JavaScript, React, HTML5, CSS3",
+          "experienceRequirements": "Work experience from 1 year"
+        }
+        </script>
+    </div>
+
+    <!-- Example Job 2 -->
+    <div class="job-opening">
+        <h2>Backend Developer</h2>
+        <p><strong>Responsibilities:</strong> API development, server logic, database management</p>
+        <p><strong>Requirements:</strong> Node.js, Python, SQL, REST API</p>
+        <p><strong>Salary:</strong> from 90,000 RUB</p>
+        
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "JobPosting",
+          "title": "Backend Developer",
+          "description": "API development, server logic, database management and optimization",
+          "datePosted": "2024-01-15",
+          "validThrough": "2024-02-28",
+          "employmentType": "FULL_TIME",
+          "hiringOrganization": {
+            "@type": "Organization",
+            "name": "Job Board",
+            "sameAs": "https://semen228-bot.github.io/"
+          },
+          "jobLocation": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Moscow",
+              "addressCountry": "RU"
+            }
+          },
+          "baseSalary": {
+            "@type": "MonetaryAmount",
+            "currency": "RUB",
+            "value": {
+              "@type": "QuantitativeValue",
+              "minValue": 90000,
+              "maxValue": 160000,
+              "unitText": "MONTH"
+            }
+          },
+          "responsibilities": "API development, server logic, database management",
+          "qualifications": "Experience with Node.js, Python, SQL, REST API",
+          "experienceRequirements": "Work experience from 2 years"
+        }
+        </script>
+    </div>
+
+
+
+	
 
     <!-- footer start -->
     <footer class="footer">
